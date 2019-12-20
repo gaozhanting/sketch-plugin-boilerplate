@@ -10,8 +10,7 @@ Let's say you want to name your project `MyProject` and locate it at `MyPath`
 ```bash
 cd MyPath
 
-git clone -b features https://github.com/colorgmi/sketch-plugin-boilerplate.git MyProject
-# [todo: git clone https://github.com/julianburr/sketch-plugin-boilerplate.git MyProject]
+git clone https://github.com/colorgmi/sketch-plugin-boilerplate.git MyProject
 
 cd MyProject
 
