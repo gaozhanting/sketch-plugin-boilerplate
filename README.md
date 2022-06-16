@@ -29,7 +29,7 @@ Let's say you want to name your project `MyProject` and locate it at `MyPath`
 ```bash
 cd MyPath
 
-git clone https://github.com/colorgmi/sketch-plugin-boilerplate.git MyProject
+git clone https://github.com/gaozhanting/sketch-plugin-boilerplate.git MyProject
 
 cd MyProject
 
